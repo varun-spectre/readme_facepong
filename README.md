@@ -14,9 +14,7 @@ The present project, developed by the College of Health Solutions at Arizona Sta
 
 By amalgamating these technologies, the platform enables researchers to examine user reactions within a controlled environment, offering valuable insights for various research applications.
 
-
-https://github.com/varun-spectre/NodeJS-FacePong/assets/31825973/91e14a28-712e-484d-8c6d-aaaf8c623121
-
+https://github.com/varun-spectre/readme_facepong/assets/31825973/69d57563-4616-4605-bf23-43ef5982171a
 
 
 ## Platform Description:
@@ -55,7 +53,8 @@ To facilitate data analysis and interpretation, the platform includes a notebook
 
 Researchers can filter the data based on user ID and specify a desired time frame to focus on specific subsets of the data. By leveraging the visualization capabilities of Plotly, researchers can generate dynamic and interactive animations that present the game data in a visually engaging manner. These animations provide a comprehensive view of user behavior and interactions throughout the gameplay session. 
 
-https://github.com/varun-spectre/NodeJS-FacePong/assets/31825973/36fee2b1-4083-448c-bf9e-f1a1355ff466
+
+https://github.com/varun-spectre/readme_facepong/assets/31825973/f6265704-580a-41ef-9a63-943cb7e04e1d
 
 
 The interactive nature of the visualization allows researchers to delve deeper into the data, identify patterns, and gain valuable insights into user behavior and performance. By combining the power of data filtering, time frame selection, and Plotly animations, the platform empowers researchers to effectively analyze and interpret the game data collected during the research study.
