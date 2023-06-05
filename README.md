@@ -1,5 +1,6 @@
 # InteRactiVized
-![Interactiviz_Concept_Map](https://github.com/varun-spectre/NodeJS-FacePong/assets/31825973/660cb6d3-2644-442c-ad94-8f9db5e1a9db)
+
+![Interactiviz_Concept_Map](https://github.com/varun-spectre/readme_facepong/assets/31825973/9bd817fb-390d-4a86-8727-14cdb2924283)
 
 
 
